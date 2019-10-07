@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Luis Santillanes
+ * @author 
  */
 public class Principal {
 

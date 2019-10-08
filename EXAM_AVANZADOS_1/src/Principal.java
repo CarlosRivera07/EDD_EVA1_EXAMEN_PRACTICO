@@ -26,6 +26,7 @@ public class Principal {
         boolean seguir = true;
         
         while(seguir){
+            reiniciarAr(arPalabras);
             boolean p = false;
             int numPal = (int)(Math.random()*5+1);
             

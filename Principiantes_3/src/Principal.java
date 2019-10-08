@@ -43,7 +43,7 @@ public class Principal {
                     System.out.println("]");
         for (int i = 0; i < aArreglo.length; i++) {
             for (int j = 0; j <aArreglo2.length; j++) {
-             if (aArreglo[i] != aArreglo2[j])  {
+             if (aArreglo[i] == aArreglo2[j])  {
              iAcum = iAcum +1;
              
              }    
